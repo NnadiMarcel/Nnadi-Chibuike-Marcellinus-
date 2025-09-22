@@ -25,7 +25,7 @@ Here are some of my highlighted projects (more in my repositories 👇):
 ---
 
 ## Connect With Me
-- [LinkedIn](your-linkedin-url)  
+- [LinkedIn](https://www.linkedin.com/in/marcellinus-nnadi-40b2a1381/)  
 - [Portfolio / GitHub Projects](your-github-url)  
 - Email: marcellinus4352@gmail.com 
 
