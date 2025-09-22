@@ -18,6 +18,7 @@ Passionate about transforming raw data into actionable insights and interactive 
 ## Featured Projects
 Here are some of my highlighted projects (more in my repositories 👇):
 
+- [Mental Health Dashboard (Power BI)](link-to-repo)
 - [Coffee Sales Dashboard (Power BI)](link-to-repo)  
 - [World Population Analysis (Power BI)](link-to-repo)  
 - [Excel Financial Dashboard](link-to-repo)  
@@ -26,6 +27,6 @@ Here are some of my highlighted projects (more in my repositories 👇):
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/marcellinus-nnadi-40b2a1381/)  
-- [Portfolio / GitHub Projects](your-github-url)  
+- [Portfolio / GitHub Projects]([your-github-url](https://github.com/NnadiMarcel/Nnadi-Chibuike-Marcellinus-))  
 - Email: marcellinus4352@gmail.com 
 
