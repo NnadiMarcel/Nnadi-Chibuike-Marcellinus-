@@ -26,7 +26,7 @@ Here are some of my highlighted projects (more in my repositories 👇):
 ---
 
 ## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/marcellinus-nnadi-)  
+- [LinkedIn] (https://www.linkedin.com/in/marcellinus-nnadi-40b2a1381/)
 - [Portfolio / GitHub Projects](https://github.com/NnadiMarcel/Nnadi-Chibuike-Marcellinus-)
 - Email: marcellinus4352@gmail.com 
 
