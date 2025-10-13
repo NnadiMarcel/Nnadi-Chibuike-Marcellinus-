@@ -19,9 +19,8 @@ Passionate about transforming raw data into actionable insights and interactive 
 Here are some of my highlighted projects (more in my repositories 👇):
 
 - [Mental Health Dashboard (Power BI)](https://github.com/NnadiMarcel/mental-health-dashboard)
-- [Coffee Sales Dashboard (Power BI)](link-to-repo)  
-- [World Population Analysis (Power BI)](link-to-repo)  
-- [Excel Financial Dashboard](link-to-repo)  
+- [Store Sales Dashboard (Power BI)](https://github.com/NnadiMarcel/Store-Sales-Dashboard)  
+
 
 ---
 
